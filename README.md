@@ -1,7 +1,7 @@
-
 ## Refactor
 
 ## Description
+
 ```
 As a marketing agency our services are Search Engine Optimization, Online Reputation Management, Social Media Marketing
 ```
@@ -32,15 +32,20 @@ THEN I find a concise, descriptive title
 
 ## Getting Started
 
+```
+
 I have changed the title element and added more semantic elements rather than divs.
-I have checked all the links are working and fixed 
+I have checked all the links are working and fixed
 I have added alt attribute to all img tags.
 Created some new classes for CSS file and added those in HTML page.
-Rearranged the CSS file to remove dulications
+Rearranged the CSS file to remove duplications.
 
+```
+
+## Code Snippet
 
 ## Mock-Up
 
 The following image shows the web application's appearance and functionality:
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.]("./assets/images/01-html-css-git-homework-demo.png")
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.]("./assets/Assets/01-html-css-git-homework-demo.png")
